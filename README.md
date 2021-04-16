@@ -19,5 +19,5 @@ python flask_api.py
 
 ```
 
-![image]('TextSummarizer.jpeg')
+! [image]('TextSummarizer.jpeg')
 
